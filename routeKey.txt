@@ -1,0 +1,2 @@
+Country = BY | Price = 12174.17 | Currency = BYR | frmprice = 50.00 | frmcurrency = RUB | method = creditcard | transaction_id = XXXX-XXXX-XXXX-XXXX
+Country = RU | Price = 0.78 | Currency = EUR | frmprice = 50.00 | frmcurrency = RUB | method = creditcard | transaction_id = RG8X-OCT0-4JUH-54TX
